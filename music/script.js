@@ -1,6 +1,8 @@
 const sounds = document.querySelectorAll('.sounds');
 const pads = document.querySelectorAll('.pads div');
 const animationZone = document.querySelector('.animation-zone');
+
+
 const colors = [
     "#a52a2a",
     "#33b163",
